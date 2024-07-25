@@ -1,0 +1,28 @@
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #to-do-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #to-do-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #to-do-list li:last-child {
+    border-bottom: none;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  
+  
+  
